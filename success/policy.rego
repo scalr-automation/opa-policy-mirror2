@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Only health phone sometimes memory artist environmental tree."] {
+                true
+            }
