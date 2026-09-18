@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Ahead weight natural she teacher name section."] {
+                true
+            }
