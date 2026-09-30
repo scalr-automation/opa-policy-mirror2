@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Couple contain measure necessary draw hear black suggest."] {
+                true
+            }
