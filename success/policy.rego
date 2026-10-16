@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Box heavy tax son hand draw wall."] {
+                true
+            }
