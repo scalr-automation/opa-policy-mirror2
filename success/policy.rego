@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Late participant successful difficult join cut own."] {
+                true
+            }
