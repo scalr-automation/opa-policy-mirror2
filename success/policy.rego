@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Direction course sea because magazine accept type."] {
+                true
+            }
