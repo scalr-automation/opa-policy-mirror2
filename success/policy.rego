@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Choice fear later including there recognize phone."] {
+                true
+            }
